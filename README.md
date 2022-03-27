@@ -11,3 +11,5 @@
 ![image](https://github.com/vchiara/fuel_prices_it/blob/main/plots/service_price_bar.png)
 ![image](https://github.com/vchiara/fuel_prices_it/blob/main/plots/benzina_price_region.png)
 ![image](https://github.com/vchiara/fuel_prices_it/blob/main/plots/gasolio_price_region.png)
+![image](https://github.com/vchiara/fuel_prices_it/blob/main/plots/diesel_price_region.png)
+![image](https://github.com/vchiara/fuel_prices_it/blob/main/plots/gpl_price_region.png)
